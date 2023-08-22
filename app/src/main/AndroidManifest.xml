@@ -30,7 +30,7 @@
         </activity>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDR3z39EJwJ-K6HytLudaXZKjFv2uKze-E" />
+            android:value= "${API_KEY}" />
     </application>
 
 </manifest>
